@@ -100,6 +100,9 @@
   color: #fff;
 }
 @media (max-width: 1483px) {
+  .blog {
+    justify-content: space-between;
+  }
   .blog li {
     width: 45%;
   }
