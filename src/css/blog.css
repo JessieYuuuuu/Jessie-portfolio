@@ -5,9 +5,6 @@
 .blog h2,
 .blogBtn {
   line-height: 150%;
-  font-family: "Noto Sans TC", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
 }
 .warp {
   margin: 56px auto;
@@ -18,7 +15,6 @@
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
-  padding: 0;
 }
 .blog li {
   border-radius: 40px;
